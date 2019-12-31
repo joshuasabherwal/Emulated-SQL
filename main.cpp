@@ -759,7 +759,3 @@ int main(int argc, char *argv[]) {
     cout << "Thanks for being silly!\n";
     return 0;
 }
-//改一下upper bound 和 lower bound的问题
-//改一下hash table 的问题
-//Delete remove_if
-//Print_helper hash
