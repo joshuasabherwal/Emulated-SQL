@@ -1,2 +1,2 @@
 # Emulated-SQL
-Emulated SQL
+This project emulates a basic relational database with an interface based on a subset of a standard query language. It parses users’ input commands such as “SELECT Model from Cars marketplace where Price < 50000” and executes the command accordingly. This simple database management supports common SQL commands such as CREATE, DELETE, GENERATE INDEX (which creates a search index on the specified column), PRINT and JOIN. This project contains about 1300 lines of code and was completed individually. 
